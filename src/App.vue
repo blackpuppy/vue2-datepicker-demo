@@ -1,18 +1,24 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <hello></hello>
+    <span>Try to add date picker here:</span>
+    <!-- <date-picker v-model="time2" range></date-picker> -->
   </div>
 </template>
 
 <script>
-import Hello from './components/Hello'
+import DatePicker from 'vue2-datepicker'
 
 export default {
   name: 'app',
   components: {
-    Hello
-  }
+    // DatePicker
+  },
+  data() {
+    return {
+      time1: '',
+      time2: '',
+    }
+  },
 }
 </script>
 
