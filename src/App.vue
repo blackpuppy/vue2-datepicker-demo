@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <span>Try to add date picker here:</span>
-    <!-- <date-picker v-model="time2" range></date-picker> -->
+    <span>Date range picker:</span>
+    <date-picker v-model="time2" range width="220" placeholder="from ~ to"></date-picker>
   </div>
 </template>
 
@@ -11,7 +11,7 @@ import DatePicker from 'vue2-datepicker'
 export default {
   name: 'app',
   components: {
-    // DatePicker
+    DatePicker
   },
   data() {
     return {

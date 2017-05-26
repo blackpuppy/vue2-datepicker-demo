@@ -46,3 +46,5 @@ Error in the output:
 Module build failed: Error: Couldn't find preset "latest" relative to directory ".../node_modules/vue2-datepicker"
 ...
 ```
+
+This bug was fixed in vue2-datepicker@1.2.1.
