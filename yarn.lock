@@ -3853,9 +3853,9 @@ vue-template-es2015-compiler@^1.2.2:
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.5.2.tgz#a0a6c50c941d2a4abda963f2f42c337ac450ee95"
 
-vue2-datepicker@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/vue2-datepicker/-/vue2-datepicker-1.2.0.tgz#b81c146a37828c07710bbd9e54cba61c52b2dd45"
+vue2-datepicker@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/vue2-datepicker/-/vue2-datepicker-1.2.1.tgz#24104444809199f8bbfdfdccae22a9ecf8a388c8"
   dependencies:
     vue "^2.2.1"
 
