@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "moment-timezone": "^0.5.13",
+    "moment-timezone": "^0.5.35",
     "ramda": "^0.23.0",
     "vue": "^3.0.0",
     "vue2-datepicker": "^1.2.1"
