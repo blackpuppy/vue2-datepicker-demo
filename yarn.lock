@@ -2217,9 +2217,9 @@ http-errors@1.8.1:
     statuses ">= 1.5.0 < 2"
     toidentifier "1.0.1"
 
-http-proxy-middleware@^2.0.9:
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/http-proxy-middleware/-/http-proxy-middleware-2.0.9.tgz#e9e63d68afaa4eee3d147f39149ab84c0c2815ef"
+http-proxy-middleware@^2.0.10:
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/http-proxy-middleware/-/http-proxy-middleware-2.0.10.tgz#b2df7b705203d7a8c269ac8450cf96b00c532f94"
   dependencies:
     "@types/http-proxy" "^1.17.8"
     http-proxy "^1.18.1"
